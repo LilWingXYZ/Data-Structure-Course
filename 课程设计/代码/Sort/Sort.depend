@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505198959 source:c:\users\john\desktop\sort\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+
