@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492080769 source:e:\新建文件夹 (2)\迷宫\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<algorithm>
+	<vector>
+	<map>
+
